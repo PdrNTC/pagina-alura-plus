@@ -1,1 +1,1 @@
-# pagina-alura-plus
+<h1 align="center">Alura+</h1>
